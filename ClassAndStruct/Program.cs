@@ -29,8 +29,10 @@ namespace ClassAndStruct
             student2.StudentollNo = 3; //changes the value of student2
             student2.StudentName = "Bob"; //changes the value of student2
             
-            Console.WriteLine("Copy the student1 into student2 and change the values of student2");
+            Console.WriteLine("Copy the student1 into student2 and change the values of student2\n");
+            Console.WriteLine("After Changes");
 
+            //After changing the values of student2 cannot change the values of student1 in struct since the struct is value type
             Console.WriteLine("=== struct student1 ===");
             Console.WriteLine(student1.ToString());
 
@@ -41,8 +43,10 @@ namespace ClassAndStruct
             employee2.EmployeeId = 103;//changes the value of employee2
             employee2.EmployeeName = "Om";//changes the value of employee2
 
-            Console.WriteLine("Copy the employee1 into employee2 and make changes in employee2");
+            Console.WriteLine("Copy the employee1 into employee2 and make changes in employee2\n");
+            Console.WriteLine("After Changes");
 
+            //After changing the values of employee2 can change the values of employee1 in class since the classe is refernce type
             Console.WriteLine("=== class Employee1 ===");
             Console.WriteLine(employee1.PrintDetails());
 

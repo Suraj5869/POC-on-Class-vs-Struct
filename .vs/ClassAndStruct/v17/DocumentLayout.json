@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Tasks\\ClassAndStruct\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3865364-3D16-47CD-BDC8-7C716914C6AE}|ClassAndStruct\\ClassAndStruct.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\tasks\\classandstruct\\classandstruct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3865364-3D16-47CD-BDC8-7C716914C6AE}|ClassAndStruct\\ClassAndStruct.csproj|solutionrelative:classandstruct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3865364-3D16-47CD-BDC8-7C716914C6AE}|ClassAndStruct\\ClassAndStruct.csproj|C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Tasks\\ClassAndStruct\\classandstruct\\models\\managerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3865364-3D16-47CD-BDC8-7C716914C6AE}|ClassAndStruct\\ClassAndStruct.csproj|solutionrelative:classandstruct\\models\\managerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3865364-3D16-47CD-BDC8-7C716914C6AE}|ClassAndStruct\\ClassAndStruct.csproj|C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Tasks\\ClassAndStruct\\classandstruct\\models\\studentstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3865364-3D16-47CD-BDC8-7C716914C6AE}|ClassAndStruct\\ClassAndStruct.csproj|solutionrelative:classandstruct\\models\\studentstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3865364-3D16-47CD-BDC8-7C716914C6AE}|ClassAndStruct\\ClassAndStruct.csproj|C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Tasks\\ClassAndStruct\\classandstruct\\models\\managerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3865364-3D16-47CD-BDC8-7C716914C6AE}|ClassAndStruct\\ClassAndStruct.csproj|solutionrelative:classandstruct\\models\\managerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A3865364-3D16-47CD-BDC8-7C716914C6AE}|ClassAndStruct\\ClassAndStruct.csproj|C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Tasks\\ClassAndStruct\\classandstruct\\models\\employeeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3865364-3D16-47CD-BDC8-7C716914C6AE}|ClassAndStruct\\ClassAndStruct.csproj|solutionrelative:classandstruct\\models\\employeeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3865364-3D16-47CD-BDC8-7C716914C6AE}|ClassAndStruct\\ClassAndStruct.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\tasks\\classandstruct\\classandstruct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3865364-3D16-47CD-BDC8-7C716914C6AE}|ClassAndStruct\\ClassAndStruct.csproj|solutionrelative:classandstruct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ManagerClass.cs",
               "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Tasks\\ClassAndStruct\\ClassAndStruct\\Models\\ManagerClass.cs",
               "RelativeDocumentMoniker": "ClassAndStruct\\Models\\ManagerClass.cs",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "EmployeeClass.cs",
               "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Tasks\\ClassAndStruct\\ClassAndStruct\\Models\\EmployeeClass.cs",
               "RelativeDocumentMoniker": "ClassAndStruct\\Models\\EmployeeClass.cs",
@@ -62,20 +62,20 @@
               "RelativeDocumentMoniker": "ClassAndStruct\\Models\\StudentStruct.cs",
               "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Tasks\\ClassAndStruct\\ClassAndStruct\\Models\\StudentStruct.cs",
               "RelativeToolTip": "ClassAndStruct\\Models\\StudentStruct.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAmwA0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T11:12:48.874Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Tasks\\ClassAndStruct\\ClassAndStruct\\Program.cs",
               "RelativeDocumentMoniker": "ClassAndStruct\\Program.cs",
               "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Tasks\\ClassAndStruct\\ClassAndStruct\\Program.cs",
               "RelativeToolTip": "ClassAndStruct\\Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEkAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T11:12:16.279Z",
               "EditorCaption": ""
