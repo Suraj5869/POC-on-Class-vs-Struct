@@ -70,7 +70,7 @@ namespace ClassAndStruct
             EmployeeClass defaultclass = new EmployeeClass();
             Console.WriteLine($"Default class values:\n{defaultclass.PrintDetails()}");
 
-            //We cannot define the default constuctor on struct but compiler can automatically define it.
+            //We cannot define the default constuctor in struct but compiler can automatically define it.
             StudentStruct defaultstruct = new StudentStruct();
             Console.WriteLine($"Default struct values:\n{defaultstruct.ToString()}");
 
